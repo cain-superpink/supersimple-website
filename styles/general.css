@@ -7,7 +7,7 @@ body {
   /* This style below will be inherited */
   font-family: Roboto, Arial;
   background-color: darkred;
-  margin: 0;
+  margin: 100;
   padding-top: 80px;
   padding-left: 96px;
   padding-right: 24px;
